@@ -1,5 +1,5 @@
 ARCH=arm64
-UBUNTU_CODE=jammy
+UBUNTU_CODE=noble
 UBUNTU_MIRROR=http://ports.ubuntu.com/ubuntu-ports
 
 BUILD=build/$(UBUNTU_CODE)
